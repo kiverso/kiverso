@@ -4,7 +4,7 @@
 
  🔭 I’m currently working on my portfolio site.
  
- 🌱 I’m currently learning React and C#.
+ 🌱 I’m currently learning React and Java.
  
  👯 I’m looking to collaborate on issues good for entry-level developers.
  
