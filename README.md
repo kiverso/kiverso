@@ -2,11 +2,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiverso)](https://github.com/anuraghazra/github-readme-stats)
 
- 🔭 I’m currently working on my portfolio site.
  
  🌱 I’m currently learning React and Java.
  
- 👯 I’m looking to collaborate on issues good for entry-level developers.
+ 👯 I’m looking to collaborate on issues good for junior developers, preferably ruby projects.
  
  📫 How to reach me:
  
